@@ -16,6 +16,7 @@ npm install
 
 npx expo start
 
+```plaintext
 class-booking-app/
 ├── App.tsx
 ├── package.json
@@ -32,6 +33,8 @@ class-booking-app/
 │   ├── types.ts
 │   └── hooks/useBooking.ts
 └── README.md
+```
+
 
 Run the project and install expo go app on your mobile phone and scan the QR code
 
